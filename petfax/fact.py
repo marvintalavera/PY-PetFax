@@ -8,7 +8,7 @@ pets = json.load(open('pets.json'))
 
 @bp.route('/new')
 def fax(): 
-    return render_template('new.html')
+    return render_template('facts/new.html')
 
 @bp.route('/', methods=['GET', 'POST']) 
 def index(): 
