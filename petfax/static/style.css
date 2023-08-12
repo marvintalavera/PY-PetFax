@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(24, 138, 204);
+    text-align: center;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 28px;
+}
+
+img {
+    border-radius: 25px;
+    border: 8px solid #000000;
+    padding: 20px;
+    width: 200px;
+  }
+
+a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #000000;
+}
+
+a:visited {
+    color:#000000
+}
