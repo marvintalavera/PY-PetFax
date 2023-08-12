@@ -17,4 +17,3 @@ def index():
        return redirect('/facts')
     
     return render_template('facts/index.html')
-
